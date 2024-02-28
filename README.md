@@ -25,3 +25,6 @@
 
 * 此代码仅供学习参考，请勿用于商业用途。
 * Coingecko和Coinmarketcap的API可能会随时更改，请注意更新代码。
+
+https://www.coingecko.com/
+https://coinmarketcap.com/
