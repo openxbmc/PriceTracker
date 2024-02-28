@@ -15,7 +15,7 @@
 2. 安装依赖项：`pip install -r requirements.txt`
 3. 创建并启动MySQL数据库
 4. 修改`db_config`中的数据库配置
-5. 运行代码：`python app.py`
+5. 运行代码：`python python.py`
 
 **访问网页**
 
